@@ -1,0 +1,37 @@
+name: Daily News Crawl
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run crawler
+      env:
+        KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+      run: npm run crawl
+
+    - name: Commit and push
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add data/news.json
+        git diff --staged --quiet || (git commit -m "Update news $(date +%Y-%m-%d)" && git push)
