@@ -1,0 +1,12 @@
+{
+  "name": "energy-agent",
+  "version": "1.0.0",
+  "description": "能源市场新闻Agent",
+  "main": "src/crawler.js",
+  "scripts": {
+    "crawl": "node src/crawler.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
