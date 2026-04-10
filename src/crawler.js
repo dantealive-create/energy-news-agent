@@ -19,12 +19,11 @@ function generateId(source, title) {
 
 async function callKimi(messages) {
   const resp = await axios.post(KIMI_API_URL, {
-    model: 'kimi-k2.5',
+   model: 'moonshot-v1-128k',
     messages,
     max_tokens: 8192,
-    temperature: 1,
-    tools: [{ type: 'builtin_function', function: { name: '$web_search' } }],
-    chat_template_kwargs: { thinking: false }
+    temperature: 0.3,
+    tools: [{ type: 'builtin_function', function: { name: '$web_search' } }]
   }, {
     headers: { 'Authorization': `Bearer ${KIMI_API_KEY}`, 'Content-Type': 'application/json' },
     timeout: 180000
@@ -133,7 +132,7 @@ function parseResult(content, t) {
 }
 
 async function main() {
-  console.log(`[${new Date().toISOString()}] Starting with kimi-k2.5 + web_search (multi-turn)...`);
+  console.log(`[${new Date().toISOString()}] Starting with moonshot-v1-128k + web_search...`);
   if (!KIMI_API_KEY) { console.error('No KIMI_API_KEY'); process.exit(1); }
 
   const results = [];
