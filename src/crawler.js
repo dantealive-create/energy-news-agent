@@ -16,7 +16,7 @@ async function crawlSource(source) {
     console.log(`[${new Date().toISOString()}] Crawling ${source.name}...`);
 
     const response = await axios.post(KIMI_API_URL, {
-      model: 'kimi-k2-0711',
+      model: 'kimi-k2.5',
       messages: [
         {
           role: 'system',
