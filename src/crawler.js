@@ -62,12 +62,16 @@ async function fetchTopic(t) {
 
       // 如果有tool_calls，处理并继续
       if (msg.tool_calls && msg.tool_calls.length > 0) {
-        // 把assistant的回复加入messages
-        messages.push({
+      // 把assistant的回复加入messages（保留reasoning_content）
+        const assistantMsg = {
           role: 'assistant',
           content: msg.content || '',
           tool_calls: msg.tool_calls
-        });
+        };
+        if (msg.reasoning_content) {
+          assistantMsg.reasoning_content = msg.reasoning_content;
+        }
+        messages.push(assistantMsg);
 
         // 对每个tool_call返回结果（builtin的搜索结果由Kimi内部处理）
         for (const tc of msg.tool_calls) {
