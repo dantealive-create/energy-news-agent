@@ -23,7 +23,8 @@ async function callKimi(messages) {
     messages,
     max_tokens: 8192,
     temperature: 1,
-    tools: [{ type: 'builtin_function', function: { name: '$web_search' } }]
+    tools: [{ type: 'builtin_function', function: { name: '$web_search' } }],
+    chat_template_kwargs: { thinking: false }
   }, {
     headers: { 'Authorization': `Bearer ${KIMI_API_KEY}`, 'Content-Type': 'application/json' },
     timeout: 180000
@@ -61,19 +62,13 @@ async function fetchTopic(t) {
       }
 
       // 如果有tool_calls，处理并继续
-      if (msg.tool_calls && msg.tool_calls.length > 0) {
-      // 把assistant的回复加入messages（保留reasoning_content）
-        const assistantMsg = {
+if (msg.tool_calls && msg.tool_calls.length > 0) {
+        messages.push({
           role: 'assistant',
           content: msg.content || '',
           tool_calls: msg.tool_calls
-        };
-        if (msg.reasoning_content) {
-          assistantMsg.reasoning_content = msg.reasoning_content;
-        }
-        messages.push(assistantMsg);
+        });
 
-        // 对每个tool_call返回结果（builtin的搜索结果由Kimi内部处理）
         for (const tc of msg.tool_calls) {
           messages.push({
             role: 'tool',
