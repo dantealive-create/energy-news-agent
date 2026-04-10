@@ -39,7 +39,7 @@ async function fetchTopic(t, index) {
         }
       ],
       max_tokens: 4096,
-      temperature: 0.6,
+      temperature: 1,
       tools: [
         {
           type: 'builtin_function',
