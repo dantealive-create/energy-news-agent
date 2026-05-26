@@ -1,187 +1,447 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "items": [
     {
-      "title": "英国、法国、德国向联合国安理会提交关于对伊朗启动快速恢复制裁机制的通知",
-      "summary": "英国、法国和德国向联合国安理会提交启动对伊朗“快速恢复制裁”机制的通知，是基于安理会第2231号决议的程序性动作。该决议原本支持2015年达成的伊朗核协议（JCPOA），允许在伊朗违反协议时快速恢复制裁。此举反映出欧洲主要国家对伊朗核问题可能升级的担忧，尤其是在美国2018年退出该协议后，协议执行面临巨大压力。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MzU5MDg4NzAyMw==&mid=2247489668&idx=1&sn=5ab6eec433018d4e238160b4ec39cb29",
-      "publishTime": "2026-05-05",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 9,
-      "id": "地缘政治_6Iux5Zu944CB_1779677694592",
-      "source": {
-        "name": "地缘政治",
-        "displayName": "地缘政治",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:54:54.592Z"
-    },
-    {
-      "title": "Oil and Gas Prices Up Today Due to US Warship Incident Near Strait of Hormuz",
-      "summary": "Oil and gas markets moved higher after reports about a US warship incident near the Strait of Hormuz. Brent and WTI crude futures rose about 5%, and Dutch gas prices also moved up as LNG supply remained trapped.",
-      "url": "https://m.economictimes.com/news/international/us/why-are-oil-and-gas-prices-up-today-and-will-brent-us-wti-crude-futures-and-dutch-natural-gas-rates-continue-to-rise-or-fall-again-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/130783091.cms",
-      "publishTime": "2026-05-25",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 9,
-      "id": "International_T2lsIGFuZCBH_1779677774470",
-      "source": {
-        "name": "International",
-        "displayName": "International",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:56:14.470Z"
-    },
-    {
-      "title": "国际原油市场动向：WTI原油现报87.42美元/桶，布伦特原油报91.76美元/桶",
-      "summary": "WTI原油现报87.42美元/桶（+0.13%），布伦特原油报91.76美元/桶（+0.21%）。OPEC+宣布延长减产协议至二季度末，美国战略石油储备补库计划启动，红海航运危机推高运输成本。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MzU2Mzg0NTE2Ng==&mid=2247489550&idx=7&sn=4a0dec6afbb7c67763313f36c15c2fc5",
-      "publishTime": "2025-06-02",
+      "title": "美国延长与欧盟贸易谈判最后期限，国际油价上涨",
+      "summary": "在美国延长与欧盟进行贸易谈判的最后期限后，油价周一在亚洲早盘交易中上涨，缓解了对美国对欧盟征收关税的担忧，这可能会损害全球经济和燃料需求。布伦特原油期货上涨37美分，每桶65.15美元，涨幅0.6%，WTI原油上涨34美分，每桶61.87美元，涨幅0.6%。",
+      "url": "https://finance.sina.com.cn/jjxw/2025-05-26/doc-inexwhpa5593673.shtml",
+      "publishTime": "2025-05-26",
       "category": [
         "price"
       ],
       "importance": 8,
-      "id": "原油价格_5Zu96ZmF5Y6f_1779677623883",
+      "id": "原油价格_576O5Zu95bu2_1779763321583",
       "source": {
         "name": "原油价格",
         "displayName": "原油价格",
         "authorityScore": 10
       },
       "authority": 10,
-      "fetchTime": "2026-05-25T02:53:43.883Z"
+      "fetchTime": "2026-05-26T02:42:01.583Z"
     },
     {
-      "title": "油价调整在即：今日油价查询及最新调整消息（2025年6月2日）",
-      "summary": "国内成品油价格调整已进入倒计时阶段，预计油价上调幅度为60-70元/吨，折合每升上涨约0.05-0.06元。WTI原油跌至约60.79美元/桶，布伦特原油跌至约62.64美元/桶。",
+      "title": "原油市场多因素扰动，油价震荡运行",
+      "summary": "截至周五，WTI 7月合约收盘至61.53美元/桶，周度跌幅0.27%。布伦特7月合约收盘至64.78美元/桶，周度跌幅0.46%。SC2507以456.8元/桶收盘。在美伊谈判预期反复，需求承压等多重因素影响下，油价整体震荡运行。",
+      "url": "https://finance.sina.com.cn/money/future/2025-05-26/doc-inexwafh1233560.shtml",
+      "publishTime": "2025-05-26",
+      "category": [
+        "price"
+      ],
+      "importance": 8,
+      "id": "原油价格_5Y6f5rK55biC_1779763321583",
+      "source": {
+        "name": "原油价格",
+        "displayName": "原油价格",
+        "authorityScore": 10
+      },
+      "authority": 10,
+      "fetchTime": "2026-05-26T02:42:01.583Z"
+    },
+    {
+      "title": "国际原油市场动向：WTI原油现报87.42美元/桶，布伦特原油报91.76美元/桶",
+      "summary": "WTI原油现报87.42美元/桶（+0.13%），布伦特原油报91.76美元/桶（+0.21%）。OPEC+宣布延长减产协议至二季度末，美国战略石油储备补库计划启动，红海航运危机推高运输成本。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU2Mzg0NTE2Ng==&mid=2247489550&idx=7&sn=4a0dec6afbb7c67763313f36c15c2fc5",
+      "publishTime": "2025-05-26",
+      "category": [
+        "price"
+      ],
+      "importance": 8,
+      "id": "原油价格_5Zu96ZmF5Y6f_1779763321583",
+      "source": {
+        "name": "原油价格",
+        "displayName": "原油价格",
+        "authorityScore": 10
+      },
+      "authority": 10,
+      "fetchTime": "2026-05-26T02:42:01.583Z"
+    },
+    {
+      "title": "国内成品油价格调整已进入倒计时阶段",
+      "summary": "根据最新油价数据显示，截至2025年6月2日，国内成品油价格调整已进入倒计时阶段。本轮油价调整周期已历经9个工作日，预计油价上调幅度为60-70元/吨，折合每升上涨约0.05-0.06元。",
       "url": "http://mp.weixin.qq.com/s?__biz=Mzg5ODcxNTU1Ng==&mid=2247484430&idx=1&sn=d69edb8cc6d93a78cc60d9c73f27e396",
       "publishTime": "2025-06-02",
       "category": [
         "price"
       ],
       "importance": 8,
-      "id": "原油价格_5rK55Lu36LCD_1779677623883",
+      "id": "原油价格_5Zu95YaF5oiQ_1779763321583",
       "source": {
         "name": "原油价格",
         "displayName": "原油价格",
         "authorityScore": 10
       },
       "authority": 10,
-      "fetchTime": "2026-05-25T02:53:43.883Z"
+      "fetchTime": "2026-05-26T02:42:01.583Z"
     },
     {
-      "title": "原油价格整体态势及演变历程：2025年上半年油价走势",
-      "summary": "2025年上半年，地缘博弈激烈，油价走势呈现“急速冲高、快速回落、震荡下行”的特征。1月15日，Brent原油和WTI原油期货价格升至全年最高点82.03美元/桶、80.04美元/桶。",
-      "url": "https://ceep.bit.edu.cn/docs//2026-01/23729fc32fb54d128bd7e76f711958da.pdf",
-      "publishTime": "2025-06-01",
+      "title": "国际油价实时价格查询：WTI美原油期货价格66.19美元/桶",
+      "summary": "2025年7月18日今日油价最新消息：国际油价下跌，美国原油价格下跌0.02%到66.22美元/桶，布伦特原油价格下跌0.09%到69.48美元/桶，新一轮10个工作日统计周期，经过3个工作日统计，预计油价下调25元/吨。",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3MTk2NjYxNw==&mid=2247490346&idx=5&sn=f9979ebba1bdad5c3e8a70dbe4152daf",
+      "publishTime": "2025-07-18",
       "category": [
         "price"
       ],
       "importance": 8,
-      "id": "原油价格_5Y6f5rK55Lu3_1779677623883",
+      "id": "原油价格_5Zu96ZmF5rK5_1779763321583",
       "source": {
         "name": "原油价格",
         "displayName": "原油价格",
         "authorityScore": 10
       },
       "authority": 10,
-      "fetchTime": "2026-05-25T02:53:43.883Z"
+      "fetchTime": "2026-05-26T02:42:01.583Z"
     },
     {
-      "title": "原油在2026年5月22日上涨至每桶97美元",
-      "summary": "原油在2026年5月22日上涨至每桶97美元，比前一天上涨0.67%。在过去一个月中，原油价格上涨了1.20%，与去年同期相比上涨了57.65%。",
-      "url": "https://zh.tradingeconomics.com/commodity/crude-oil",
-      "publishTime": "2026-05-22",
+      "title": "布伦特原油价格实时行情：布伦特期油95.41美元/桶",
+      "summary": "布伦特原油价格实时行情走势报价自动更新频率为5秒，可实时更新最新价格。数据来自洲际交易所(Intercontinental Exchange,ICE)的北海布伦特原油（Brent Crude）期货合约原油指数。",
+      "url": "https://www.guojiyoujia.com/ICE_Brent_Crude/",
+      "publishTime": "2025-05-26",
       "category": [
         "price"
       ],
       "importance": 8,
-      "id": "原油价格_5Y6f5rK55Zyo_1779677623883",
+      "id": "原油价格_5biD5Lym54m5_1779763321583",
       "source": {
         "name": "原油价格",
         "displayName": "原油价格",
         "authorityScore": 10
       },
       "authority": 10,
-      "fetchTime": "2026-05-25T02:53:43.883Z"
+      "fetchTime": "2026-05-26T02:42:01.583Z"
     },
     {
       "title": "天然气市场智判",
-      "summary": "2025年8月29日国内LNG工厂、接收站气源市场均价为4266元/吨，较昨日上涨1元/吨。国产气价格大稳小动，环渤海部分接收站上调20-100元/吨，预计短线内国内LNG价格或多以稳中涨跌互现的局面运行。",
+      "summary": "2025年8月29日国内LNG工厂、接收站气源市场均价为4266元/吨，较昨日上涨1元/吨。国产气价格大稳小动，海气部分接收站价格上调。预计短线内国内LNG价格或多以稳中涨跌互现的局面运行。",
       "url": "http://mp.weixin.qq.com/s?__biz=MzA3NDcwODE1Mw==&mid=2247558297&idx=1&sn=fa2e8570517e16640ee387f3cad2c4e4",
       "publishTime": "2025-08-29",
-      "category": [
-        "price"
-      ],
-      "importance": 8,
-      "id": "天然气/LNG_5aSp54S25rCU_1779677661469",
-      "source": {
-        "name": "天然气/LNG",
-        "displayName": "天然气/LNG",
-        "authorityScore": 10
-      },
-      "authority": 10,
-      "fetchTime": "2026-05-25T02:54:21.469Z"
-    },
-    {
-      "title": "LNG市场分析日报（2025.8.31）",
-      "summary": "8月31日国内LNG市场区域分化，四川地区LNG工厂价格下降50元/吨，内蒙与江苏两地LNG市场价格上涨30-50元/吨，后市LNG市场价格走势不确定性较大。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MzI0NTU3OTgxOA==&mid=2247497656&idx=1&sn=f93fe5674a7234fc21e6f84151216ec9",
-      "publishTime": "2025-08-31",
-      "category": [
-        "price"
-      ],
-      "importance": 8,
-      "id": "天然气/LNG_TE5H5biC5Zy6_1779677661469",
-      "source": {
-        "name": "天然气/LNG",
-        "displayName": "天然气/LNG",
-        "authorityScore": 10
-      },
-      "authority": 10,
-      "fetchTime": "2026-05-25T02:54:21.469Z"
-    },
-    {
-      "title": "液化天然气日评：成本面支撑 上游延续推涨操作（20240828）",
-      "summary": "今日全国LNG接货价格为5184元/吨，较上一工作日上调37元/吨。市场关注点包括上海发展和改革委员会制定的海上光伏开发建设方案，以及洋山港海事局远程监控和现场执法人员的守护下，LNG燃料加注船为全球最大汽车运输船顺利加注LNG燃料。",
-      "url": "https://www.mysteel.com/hot/1595894.html",
-      "publishTime": "2024-08-28",
-      "category": [
-        "price"
-      ],
-      "importance": 8,
-      "id": "天然气/LNG_5ray5YyW5aSp_1779677661469",
-      "source": {
-        "name": "天然气/LNG",
-        "displayName": "天然气/LNG",
-        "authorityScore": 10
-      },
-      "authority": 10,
-      "fetchTime": "2026-05-25T02:54:21.470Z"
-    },
-    {
-      "title": "液化天然气价格走势相关资讯",
-      "summary": "2025年12月-2026年1月，沿海及区域内供应端整体保持宽松，需求方面，冬季受寒潮带动城燃采暖用气大幅攀升，部分工业受环保限产表现不佳，仅气电及局部工业带来少量需求增量。价格方面，受国际现货LNG价格微降及“三桶油”低价资源冲击，气价弱势盘整。",
-      "url": "https://www.chinacqpgx.com/nbnews/shownews?id=15390",
-      "publishTime": "2026-05-25",
       "category": [
         "price",
         "supply",
         "demand"
       ],
       "importance": 8,
-      "id": "天然气/LNG_5ray5YyW5aSp_1779677661470",
+      "id": "天然气/LNG_5aSp54S25rCU_1779763387537",
       "source": {
         "name": "天然气/LNG",
         "displayName": "天然气/LNG",
         "authorityScore": 10
       },
       "authority": 10,
-      "fetchTime": "2026-05-25T02:54:21.470Z"
+      "fetchTime": "2026-05-26T02:43:07.537Z"
+    },
+    {
+      "title": "LNG市场分析日报（2025.8.31）",
+      "summary": "8月31日国内LNG市场呈现区域分化态势，四川地区LNG工厂价格下降，内蒙与江苏两地LNG市场则表现为价格上行。后市预测显示LNG市场价格走势不确定性较大，区域间供需平衡的差异化特征明显。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI0NTU3OTgxOA==&mid=2247497656&idx=1&sn=f93fe5674a7234fc21e6f84151216ec9",
+      "publishTime": "2025-08-31",
+      "category": [
+        "price",
+        "supply",
+        "demand"
+      ],
+      "importance": 8,
+      "id": "天然气/LNG_TE5H5biC5Zy6_1779763387537",
+      "source": {
+        "name": "天然气/LNG",
+        "displayName": "天然气/LNG",
+        "authorityScore": 10
+      },
+      "authority": 10,
+      "fetchTime": "2026-05-26T02:43:07.537Z"
+    },
+    {
+      "title": "液化天然气价格走势快讯",
+      "summary": "取暖季后LNG价格走势背离传统运行轨迹，供需格局重塑价格曲线。春节过后LNG市场迎来了关键的调整期，下游需求的复苏节奏与上游成本的变动趋势相互支撑，促使2025年开年LNG价格走势呈现于异于往年的“剪刀差”走势。",
+      "url": "https://www.mysteel.com/hot/1593556.html",
+      "publishTime": "2025-04-02",
+      "category": [
+        "price",
+        "supply",
+        "demand"
+      ],
+      "importance": 8,
+      "id": "天然气/LNG_5ray5YyW5aSp_1779763387537",
+      "source": {
+        "name": "天然气/LNG",
+        "displayName": "天然气/LNG",
+        "authorityScore": 10
+      },
+      "authority": 10,
+      "fetchTime": "2026-05-26T02:43:07.537Z"
+    },
+    {
+      "title": "美伊地缘政治紧张局势升级的市场影响分析",
+      "summary": "根据最新报道，美伊紧张局势正在持续升级，美国正考虑扣押伊朗油轮，2026年以来已有超过20艘运输伊朗石油的船只被列入制裁名单。此举可能会导致叙利亚石油出口受到限制，进而影响到全球石油供应。",
+      "url": "https://www.gilin.com.cn/news/25292-research",
+      "publishTime": "2024-04-27",
+      "category": [
+        "geopolitics"
+      ],
+      "importance": 8,
+      "id": "地缘政治_576O5LyK5Zyw_1779763435701",
+      "source": {
+        "name": "地缘政治",
+        "displayName": "地缘政治",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:43:55.701Z"
+    },
+    {
+      "title": "地缘政治风险仍存，油价上涨",
+      "summary": "随着地缘政治风险上升以及美国对俄罗斯“影子船队”实施新制裁的威胁可能影响供应，油价再次攀升。OPEC连续第五次下调2024年和2025年的全球石油需求预测，将明年增长预期调整为每天145万桶。",
+      "url": "https://www.sohu.com/a/837301147_488177",
+      "publishTime": "2024-04-27",
+      "category": [
+        "geopolitics"
+      ],
+      "importance": 8,
+      "id": "地缘政治_5Zyw57yY5pS/_1779763435701",
+      "source": {
+        "name": "地缘政治",
+        "displayName": "地缘政治",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:43:55.701Z"
+    },
+    {
+      "title": "欧盟理事会批准第六轮对俄制裁方案",
+      "summary": "欧盟理事会近期发布公告批准第六轮对俄制裁方案，对俄罗斯石油实施“部分禁运”，在6个月内逐步禁止俄罗斯石油进口，8个月内禁止其他精炼石油产品，同时将俄罗斯三家银行排除SWIFT系统。",
+      "url": "http://ier.ruc.edu.cn/docs/2022-06/f5393b42ab3645bb93bde31f20f232ac.pdf",
+      "publishTime": "2024-04-27",
+      "category": [
+        "geopolitics"
+      ],
+      "importance": 8,
+      "id": "地缘政治_5qyn55uf55CG_1779763435701",
+      "source": {
+        "name": "地缘政治",
+        "displayName": "地缘政治",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:43:55.701Z"
+    },
+    {
+      "title": "以色列对伊朗发动军事打击，原油价格大涨",
+      "summary": "以色列对伊朗发动代号“狮子的力量”的军事打击，目标包括伊朗核设施及军事目标，导致德黑兰发生爆炸，多名伊朗军官和科学家死亡。受此消息影响，布油大涨超10%，上海原油SC涨停。",
+      "url": "http://ier.ruc.edu.cn/docs/2022-06/f5393b42ab3645bb93bde31f20f232ac.pdf",
+      "publishTime": "2024-04-27",
+      "category": [
+        "geopolitics"
+      ],
+      "importance": 8,
+      "id": "地缘政治_5Lul6Imy5YiX_1779763435701",
+      "source": {
+        "name": "地缘政治",
+        "displayName": "地缘政治",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:43:55.701Z"
+    },
+    {
+      "title": "美国宣布对叙利亚施加新制裁，市场担忧地缘政治风险加剧",
+      "summary": "随着美国政府近期宣布对叙利亚施加新一轮经济制裁，全球市场开始关注这一事件可能对地缘政治局势及原油市场造成的潜在影响。此举可能会挤压叙利亚的石油市场，从而对国际油价产生影响。",
+      "url": "https://m.hexun.com/stock/2024-01-26/211771740.html",
+      "publishTime": "2024-01-26",
+      "category": [
+        "geopolitics"
+      ],
+      "importance": 8,
+      "id": "地缘政治_576O5Zu95a6j_1779763435701",
+      "source": {
+        "name": "地缘政治",
+        "displayName": "地缘政治",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:43:55.701Z"
+    },
+    {
+      "title": "地缘政治溢价与供需拉锯重塑油市格局",
+      "summary": "欧盟制裁推升俄油“合规成本溢价”，中东风险触发避险买盘，而供应过剩与需求疲软正形成反向压制。邓正红软实力模型揭示，当前油价波动是规则约束与市场机制的双重博弈。",
+      "url": "https://www.sohu.com/a/937373182_120946572",
+      "publishTime": "2024-04-27",
+      "category": [
+        "geopolitics"
+      ],
+      "importance": 8,
+      "id": "地缘政治_5Zyw57yY5pS/_1779763435701",
+      "source": {
+        "name": "地缘政治",
+        "displayName": "地缘政治",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:43:55.701Z"
+    },
+    {
+      "title": "抚顺石化公司年产80万吨乙烯装置脱瓶颈改造及能效提升项目加速推进",
+      "summary": "抚顺石化公司年产80万吨乙烯装置脱瓶颈改造及能效提升项目正加速推进，项目建成后，聚乙烯瓶盖料、高洁净大中空料等高端产品产能将大幅提升。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzIzNDY1OTIzMg==&mid=2247626697&idx=2&sn=2d06325ab8cf1ba40e8656cbffb529f7",
+      "publishTime": "2026-05",
+      "category": [
+        "new_plant"
+      ],
+      "importance": 9,
+      "id": "装置动态_5oqa6aG655+z_1779763469046",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-05-26T02:44:29.046Z"
+    },
+    {
+      "title": "WTI, Brent crude oil, and natural gas price crash today",
+      "summary": "Oil and gas prices plummeted as the U.S.-Iran ceasefire triggered a rapid unwind of geopolitical risk premiums. WTI crude dropped 17.26% to $93.45, Brent crude fell 15.30% to $92.55, and natural gas declined 4.70% to $2.73.",
+      "url": "https://m.economictimes.com/news/international/us/wti-brent-crude-oil-and-natural-gas-price-crash-today-whats-happening-with-oil-and-gas-prices-as-crude-plunges-18-and-gas-slips-5-in-a-dayand-how-the-strait-of-hormuz-reopening-could-send-gasoline-sharply-lower-next/amp_articleshow/130113003.cms",
+      "publishTime": "2026-05-26T00:00:00Z",
+      "category": [
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_V1RJLCBCcmVu_1779763551133",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:45:51.133Z"
+    },
+    {
+      "title": "Iran Offers Partial Hormuz Opening to “Neutral” Vessels; Oil Wild Swings Continue",
+      "summary": "Iran offered to open the Strait of Hormuz to neutral vessels following a direct U.S. ultimatum, leading to fluctuations in oil prices. Goldman Sachs raised oil price forecasts for the second time in under two weeks.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/commodity-market-analysis-march-23-2026/",
+      "publishTime": "2026-03-23T00:00:00Z",
+      "category": [
+        "geopolitics",
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_SXJhbiBPZmZl_1779763551133",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:45:51.133Z"
+    },
+    {
+      "title": "EIA: Largest Oil Supply Disruption in Market History; Brent Stays Above $95 for Two Months",
+      "summary": "The EIA reported the largest oil supply disruption in market history, with Brent crude prices expected to stay above $95 for two months before potentially falling below $80 in Q3 2026 if transit resumes.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/commodity-market-analysis-february-26-2026-gold-silver-crude-oil-natural-gas-copper/",
+      "publishTime": "2026-02-26T00:00:00Z",
+      "category": [
+        "supply",
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_RUlBOiBMYXJn_1779763551133",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:45:51.133Z"
+    },
+    {
+      "title": "Crude Oil Price On 25-May-2026 Stands at $94.89; Peace Talks Boost Sentiment",
+      "summary": "Crude oil price today is $94.89 per barrel, reflecting a decrease from yesterday’s price of $100.21, as progress in US-Iran talks influences market sentiment and leads to a decline in oil prices.",
+      "url": "https://www.goodreturns.in/crude-oil-price.html",
+      "publishTime": "2026-05-25T00:00:00Z",
+      "category": [
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_Q3J1ZGUgT2ls_1779763551133",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:45:51.133Z"
+    },
+    {
+      "title": "U.S. Energy Information Administration (EIA) expects lower global demand for petroleum products through 2026",
+      "summary": "The EIA forecasts natural gas prices to increase from historic lows in 2024, with Brent crude oil spot price expected to be $59 in 2026, contributing to lower oil prices than previously forecast.",
+      "url": "https://www.bing.com/ck/a?!&&p=8e4e7977447d5b53fd5976358776a63d64bd0a780fb01821906236b7c36a1a93JmltdHM9MTc0OTE2ODAwMA&ptn=3&ver=2&hsh=4&fclid=35de11cf-c632-6ecd-2c7b-07ccc7456fbb&u=a1aHR0cHM6Ly93d3cuZWlhLmdvdi9wcmVzc3Jvb20vcmVsZWFzZXMvcHJlc3M1NjkucGhw&ntb=1",
+      "publishTime": "2026-05-06T00:00:00Z",
+      "category": [
+        "demand",
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_VS5TLiBFbmVy_1779763551133",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:45:51.133Z"
+    },
+    {
+      "title": "Gold Suffers Worst Weekly Decline Since 2011 as Strong Dollar Overwhelms Safe-Haven Bid",
+      "summary": "Gold dropped nearly 10% in its worst weekly rout since 2011, from $5,418 to below $4,400, as the Fed’s hawkish FOMC projection strengthened the dollar, affecting safe-haven bids.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/commodity-market-analysis-march-23-2026/",
+      "publishTime": "2026-03-21T00:00:00Z",
+      "category": [
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_R29sZCBTdWZm_1779763551133",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-05-26T02:45:51.133Z"
+    },
+    {
+      "title": "液化天然气日评：成本面支撑 上游延续推涨操作（20240828）",
+      "summary": "国内液化天然气价格走势图显示，今日全国LNG接货价格为5184元/吨，较上一工作日上调37元/吨。市场关注点包括上海市发展和改革委员会制定的海上光伏开发建设方案等。",
+      "url": "https://www.mysteel.com/hot/1595894.html",
+      "publishTime": "2024-08-28",
+      "category": [
+        "price"
+      ],
+      "importance": 7,
+      "id": "天然气/LNG_5ray5YyW5aSp_1779763387537",
+      "source": {
+        "name": "天然气/LNG",
+        "displayName": "天然气/LNG",
+        "authorityScore": 10
+      },
+      "authority": 10,
+      "fetchTime": "2026-05-26T02:43:07.537Z"
+    },
+    {
+      "title": "液化天然气日评：终端需求表现较弱 市场有下行可能（20240603）",
+      "summary": "国内液化天然气市场收盘价格表显示，今日全国LNG接货价格为5060元/吨，较上一工作日下调3元/吨。终端需求表现较弱，市场存在下行可能。",
+      "url": "https://www.mysteel.com/hot/1595894.html",
+      "publishTime": "2024-06-03",
+      "category": [
+        "price",
+        "demand"
+      ],
+      "importance": 7,
+      "id": "天然气/LNG_5ray5YyW5aSp_1779763387537",
+      "source": {
+        "name": "天然气/LNG",
+        "displayName": "天然气/LNG",
+        "authorityScore": 10
+      },
+      "authority": 10,
+      "fetchTime": "2026-05-26T02:43:07.537Z"
     },
     {
       "title": "液化天然气日评：国产资源成本偏高 维持低负荷运行（20231121）",
@@ -192,377 +452,124 @@
         "price",
         "supply"
       ],
-      "importance": 8,
-      "id": "天然气/LNG_5ray5YyW5aSp_1779677661470",
+      "importance": 7,
+      "id": "天然气/LNG_5ray5YyW5aSp_1779763387537",
       "source": {
         "name": "天然气/LNG",
         "displayName": "天然气/LNG",
         "authorityScore": 10
       },
       "authority": 10,
-      "fetchTime": "2026-05-25T02:54:21.470Z"
+      "fetchTime": "2026-05-26T02:43:07.537Z"
     },
     {
-      "title": "液化天然气日评：市场供需表现平淡 价格走势回稳（20250710）",
-      "summary": "国产资源方面，上游持稳为主，部分低价资源仍有涨价情况，高价资源挺价意愿较强。",
-      "url": "https://www.mysteel.com/hot/1593567.html",
-      "publishTime": "2025-07-10",
-      "category": [
-        "price",
-        "supply",
-        "demand"
-      ],
-      "importance": 8,
-      "id": "天然气/LNG_5ray5YyW5aSp_1779677661470",
-      "source": {
-        "name": "天然气/LNG",
-        "displayName": "天然气/LNG",
-        "authorityScore": 10
-      },
-      "authority": 10,
-      "fetchTime": "2026-05-25T02:54:21.470Z"
-    },
-    {
-      "title": "汇通财经讯——美伊谈判细节分歧仍未完全弥合，和平谈判成为双方的最优选择",
-      "summary": "过去数月，中东局势剧烈波动，地区地缘张力持续牵动全球能源市场神经。美国与伊朗的冲突自2月底爆发以来，霍尔木兹海峡遭受严重干扰，航道安全风险陡增，直接推动国际油价一度大幅飙升，创下阶段性新高。但自4月初双方达成临时停火协议以来，尽管期间多次出现局部交火、谈判僵持等紧张局面，每次剑拔弩张的态势最终均被新的外交沟通信号成功化解。",
-      "url": "https://www.163.com/dy/article/KSF1NA8N0519ALI0.html",
-      "publishTime": "2026-05-05",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 8,
-      "id": "地缘政治_5rGH6YCa6LSi_1779677694592",
-      "source": {
-        "name": "地缘政治",
-        "displayName": "地缘政治",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:54:54.592Z"
-    },
-    {
-      "title": "美国宣布对从委内瑞拉购买石油和天然气的国家征收25%的关税",
-      "summary": "美国方面宣布任何从委内瑞拉购买石油或天然气的国家都将对与美国的贸易支付25%的二级关税。此举加剧了中东地缘政治紧张局势，推动国际油价上涨。",
-      "url": "https://www.hzeyun.com/detail/2601092",
-      "publishTime": "2026-05-05",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 8,
-      "id": "地缘政治_576O5Zu95a6j_1779677694592",
-      "source": {
-        "name": "地缘政治",
-        "displayName": "地缘政治",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:54:54.592Z"
-    },
-    {
-      "title": "美国财政部海外资产控制办公室宣布对多个协助伊朗石油贸易的商业网络实施制裁",
-      "summary": "美国财政部海外资产控制办公室（OFAC）发布声明，宣布对多个协助伊朗石油贸易的商业网络实施制裁。此外，美国财政部还宣布对七名黎巴嫩真主党高级官员和一家与真主党控制的金融机构相关实体实施制裁。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MzU5MDg4NzAyMw==&mid=2247489276&idx=1&sn=b6970d734aae6ef106128e395570e7bc",
-      "publishTime": "2026-05-05",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 8,
-      "id": "地缘政治_576O5Zu96LSi_1779677694592",
-      "source": {
-        "name": "地缘政治",
-        "displayName": "地缘政治",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:54:54.592Z"
-    },
-    {
-      "title": "布伦特原油因地缘政治风险上涨",
-      "summary": "布伦特原油期货周五上涨至每桶104美元以上，此前有报道称伊朗最高领袖下令该国的浓缩铀储备留在伊朗，这使得正在进行的和平谈判变得复杂，因为拆除德黑兰的核计划仍然是美国的核心要求。",
-      "url": "https://zh.tradingeconomics.com/commodity/brent-crude-oil/news/519811",
-      "publishTime": "2026-05-21",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 8,
-      "id": "地缘政治_5biD5Lym54m5_1779677694592",
-      "source": {
-        "name": "地缘政治",
-        "displayName": "地缘政治",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:54:54.592Z"
-    },
-    {
-      "title": "美国宣布对叙利亚施加新制裁，市场担忧地缘政治风险加剧",
-      "summary": "随着美国政府近期宣布对叙利亚施加新一轮经济制裁，全球市场开始关注这一事件可能对地缘政治局势及原油市场造成的潜在影响。此举可能会挤压叙利亚的石油市场，从而对国际油价产生影响。",
-      "url": "https://m.hexun.com/stock/2024-01-26/211771740.html",
-      "publishTime": "2026-05-05",
-      "category": [
-        "geopolitics"
-      ],
-      "importance": 8,
-      "id": "地缘政治_576O5Zu95a6j_1779677694592",
-      "source": {
-        "name": "地缘政治",
-        "displayName": "地缘政治",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:54:54.592Z"
-    },
-    {
-      "title": "2026年中国化工行业PP、PE、ABS、PS、PET瓶片、甲醇、苯乙烯、乙二醇产能投放计划",
-      "summary": "2026年，中国化工行业PP预计新增产能570万吨，PE预计新增产能550万吨，多个石化项目持续推进，行业加速向规模化、高端化转型。",
-      "url": "https://www.sohu.com/a/985788677_122014422",
-      "publishTime": "2025-09-30",
+      "title": "中海石油宁波大榭石化二期二线45万吨/年PP新装置正式投产",
+      "summary": "中海石油宁波大榭石化二期二线45万吨/年PP新装置正式投产，二期一线45万吨/年预计下月投产，新增产能持续放量。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MjM5OTgxNzQwNA==&mid=2649283362&idx=3&sn=86ba2bc0ff69f9606b31b25347400038",
+      "publishTime": "2026-05",
       "category": [
         "supply"
       ],
-      "importance": 9,
-      "id": "装置动态_MjAyNuW5tOS4_1779677732481",
+      "importance": 8,
+      "id": "装置动态_5Lit5rW355+z_1779763469046",
       "source": {
         "name": "装置动态",
         "displayName": "装置动态",
         "authorityScore": 8
       },
       "authority": 8,
-      "fetchTime": "2026-05-25T02:55:32.481Z"
+      "fetchTime": "2026-05-26T02:44:29.046Z"
     },
     {
-      "title": "WTI, Brent Crude Oil, and Natural Gas Price Crash Today",
-      "summary": "Oil and gas prices plummeted as the U.S.-Iran ceasefire led to a rapid unwind of geopolitical risk premiums. WTI crude dropped 17.26% to $93.45, Brent crude fell 15.30% to $92.55, and natural gas declined 4.70% to $2.73.",
-      "url": "https://m.economictimes.com/news/international/us/wti-brent-crude-oil-and-natural-gas-price-crash-today-whats-happening-with-oil-and-gas-prices-as-crude-plunges-18-and-gas-slips-5-in-a-dayand-how-the-strait-of-hormuz-reopening-could-send-gasoline-sharply-lower-next/articleshow/130113003.cms",
-      "publishTime": "2026-05-25",
-      "category": [
-        "price"
-      ],
-      "importance": 8,
-      "id": "International_V1RJLCBCcmVu_1779677774470",
-      "source": {
-        "name": "International",
-        "displayName": "International",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:56:14.470Z"
-    },
-    {
-      "title": "今日油价最新调整消息：WTI原油和布伦特原油价格上涨",
-      "summary": "截至发稿（3月28日凌晨0时），美国WTI 5月原油期货电子盘价格周五报价上涨0.23美元，涨幅0.33%，报69.88美元/桶。5月交货的伦敦布伦特原油期货报价上涨0.15美元，涨幅0.20%，报74.18美元/桶。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MzI0NTU2MjA4NQ==&mid=2247555955&idx=3&sn=066e8ac432eb8232efc194f794f5778f",
-      "publishTime": "2025-03-28",
-      "category": [
-        "price"
-      ],
-      "importance": 7,
-      "id": "原油价格_5LuK5pel5rK5_1779677623883",
-      "source": {
-        "name": "原油价格",
-        "displayName": "原油价格",
-        "authorityScore": 10
-      },
-      "authority": 10,
-      "fetchTime": "2026-05-25T02:53:43.883Z"
-    },
-    {
-      "title": "国际油价实时价格查询：WTI美原油期货价格66.19美元/桶，布伦特原油价格69.49美元/桶",
-      "summary": "国际油价实时价格显示，WTI美原油期货价格为66.19美元/桶，下跌0.04美元；布伦特原油价格为69.49美元/桶，下跌0.03美元。",
-      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3MTk2NjYxNw==&mid=2247490346&idx=5&sn=f9979ebba1bdad5c3e8a70dbe4152daf",
-      "publishTime": "2025-07-18",
-      "category": [
-        "price"
-      ],
-      "importance": 7,
-      "id": "原油价格_5Zu96ZmF5rK5_1779677623883",
-      "source": {
-        "name": "原油价格",
-        "displayName": "原油价格",
-        "authorityScore": 10
-      },
-      "authority": 10,
-      "fetchTime": "2026-05-25T02:53:43.883Z"
-    },
-    {
-      "title": "抚顺石化公司年产80万吨乙烯装置脱瓶颈改造及能效提升项目加速推进",
-      "summary": "抚顺石化公司年产80万吨乙烯装置脱瓶颈改造及能效提升项目正加速推进，预计2026年全面投产。项目建成后，聚乙烯瓶盖料、高洁净大中空料等高端产品产能将大幅提升。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MzIzNDY1OTIzMg==&mid=2247626697&idx=2&sn=2d06325ab8cf1ba40e8656cbffb529f7",
-      "publishTime": "2024-01-04",
-      "category": [
-        "supply"
-      ],
-      "importance": 8,
-      "id": "装置动态_5oqa6aG655+z_1779677732481",
-      "source": {
-        "name": "装置动态",
-        "displayName": "装置动态",
-        "authorityScore": 8
-      },
-      "authority": 8,
-      "fetchTime": "2026-05-25T02:55:32.481Z"
-    },
-    {
-      "title": "吉林石化乙烯厂转型升级项目40万吨/年高密度聚乙烯装置一次开车成功",
-      "summary": "吉林石化乙烯厂转型升级项目40万吨/年高密度聚乙烯装置一次开车成功，标志着该装置正式转入生产运行阶段，将有效填补国内高端聚烯烃产品的需求缺口。",
+      "title": "吉林石化乙烯厂转型升级项目40万吨/年高密度聚乙烯装置投产",
+      "summary": "吉林石化乙烯厂转型升级项目40万吨/年高密度聚乙烯装置一次开车成功，标志着该装置正式转入生产运行阶段。",
       "url": "http://mp.weixin.qq.com/s?__biz=Mzg5MTUxOTk0Mg==&mid=2247708940&idx=2&sn=7a1ef0dcd2679699c10ee0d8df78bda3",
-      "publishTime": "2023-07-28",
+      "publishTime": "2026-07",
       "category": [
         "new_plant"
       ],
       "importance": 8,
-      "id": "装置动态_5ZCJ5p6X55+z_1779677732481",
+      "id": "装置动态_5ZCJ5p6X55+z_1779763469046",
       "source": {
         "name": "装置动态",
         "displayName": "装置动态",
         "authorityScore": 8
       },
       "authority": 8,
-      "fetchTime": "2026-05-25T02:55:32.481Z"
+      "fetchTime": "2026-05-26T02:44:29.046Z"
     },
     {
-      "title": "Nat-Gas Prices Climb on Forecasts for Warm US Temps",
-      "summary": "Natural gas prices rallied to a 6-week high due to expectations of above-normal temperatures that could increase demand for electricity to power air-conditioning use.",
-      "url": "https://mansfield.energy/2026/05/18/natural-gas-news-may-18-2026/",
-      "publishTime": "2026-05-18",
-      "category": [
-        "price"
-      ],
-      "importance": 7,
-      "id": "International_TmF0LUdhcyBQ_1779677774470",
-      "source": {
-        "name": "International",
-        "displayName": "International",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:56:14.470Z"
-    },
-    {
-      "title": "Cheniere’s Corpus Christi LNG Stage 3 Expansion Nearly Complete",
-      "summary": "Train 6 at the Corpus Christi Stage 3 expansion project in South Texas is producing LNG and expected to enter commercial service this summer.",
-      "url": "https://naturalgasintel.com/",
-      "publishTime": "2026-05-25",
-      "category": [
-        "new_plant"
-      ],
-      "importance": 7,
-      "id": "International_Q2hlbmllcmXi_1779677774470",
-      "source": {
-        "name": "International",
-        "displayName": "International",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:56:14.470Z"
-    },
-    {
-      "title": "Natural Gas Fell to 2.92 USD/MMBtu on May 22, 2026",
-      "summary": "Natural gas's price has risen 5.83% over the past month but is still 21.58% lower than a year ago. It is expected to trade at 3.00 USD/MMBtu by the end of this quarter.",
-      "url": "https://tradingeconomics.com/commodity/natural-gas",
-      "publishTime": "2026-05-24",
-      "category": [
-        "price"
-      ],
-      "importance": 7,
-      "id": "International_TmF0dXJhbCBH_1779677774470",
-      "source": {
-        "name": "International",
-        "displayName": "International",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:56:14.470Z"
-    },
-    {
-      "title": "Genesis Energy Reports Lower Volumes from Shenandoah FPU",
-      "summary": "Genesis Energy reported that crude oil production from the four Phase 1 wells tied into its offshore Shenandoah FPU dropped during Q1, causing it to revise expectations for the remainder of the year.",
-      "url": "https://rbnenergy.com/daily-posts",
-      "publishTime": "2026-05-07",
+      "title": "2026年中国化工行业呈现“总量增长、效益承压”的态势",
+      "summary": "2026年浙江石化、镇海炼化、华锦阿美等炼化一体化项目持续推进，行业加速向规模化、高端化转型。",
+      "url": "https://www.sohu.com/a/985788677_122014422",
+      "publishTime": "2026-05",
       "category": [
         "supply"
       ],
-      "importance": 7,
-      "id": "International_R2VuZXNpcyBF_1779677774470",
-      "source": {
-        "name": "International",
-        "displayName": "International",
-        "authorityScore": 9
-      },
-      "authority": 9,
-      "fetchTime": "2026-05-25T02:56:14.470Z"
-    },
-    {
-      "title": "国内PX行业经历集中投产后进入扩能瓶颈期，2025年仅有大连福佳PX装置存在扩能规划",
-      "summary": "国内PX行业在经历2019-2022年炼化一体集中投产后，进入扩能瓶颈期，2025年仅有大连福佳PX装置存在扩能规划，预计PX产能增加60万吨/年。",
-      "url": "https://chem.jgvogel.cn/c1588158.shtml",
-      "publishTime": "2024-01-04",
-      "category": [
-        "supply"
-      ],
-      "importance": 7,
-      "id": "装置动态_5Zu95YaFUFjo_1779677732481",
+      "importance": 8,
+      "id": "装置动态_MjAyNuW5tOS4_1779763469046",
       "source": {
         "name": "装置动态",
         "displayName": "装置动态",
         "authorityScore": 8
       },
       "authority": 8,
-      "fetchTime": "2026-05-25T02:55:32.481Z"
+      "fetchTime": "2026-05-26T02:44:29.046Z"
     },
     {
-      "title": "2025年中国甲醇产能已逐步增至1.1亿吨附近，一体化配套甲醇新增项目上马使得产能增速进一步增长",
-      "summary": "2024年中国甲醇产能在1.03亿吨，2025年产能已逐步增至1.1亿吨附近，煤制甲醇产能已超8600万吨，产能增速进一步得到增长。",
+      "title": "海南炼化PX装置计划在4月份进行检修",
+      "summary": "海南炼化PX装置计划在4月份进行检修，检修时间周期为35天左右，涉及PX产能为66万吨，具体检修时间尚未确定。",
+      "url": "https://finance.sina.com.cn/roll/2026-02-01/doc-inhkhscf8430572.shtml",
+      "publishTime": "2026-02",
+      "category": [
+        "maintenance"
+      ],
+      "importance": 7,
+      "id": "装置动态_5rW35Y2X54K8_1779763469046",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-05-26T02:44:29.046Z"
+    },
+    {
+      "title": "国内PX行业经历集中投产后进入扩能瓶颈期",
+      "summary": "2023年至今国内无PX新装置投放，2025年仅有大连福佳PX装置存在扩能规划，扩能后预计PX产能增加60万吨/年至4386万吨/年。",
       "url": "https://finance.sina.com.cn/roll/2025-09-30/doc-infsfvxp7733045.shtml",
-      "publishTime": "2025-09-30",
+      "publishTime": "2025-09",
       "category": [
         "supply"
       ],
       "importance": 7,
-      "id": "装置动态_MjAyNeW5tOS4_1779677732481",
+      "id": "装置动态_5Zu95YaFUFjo_1779763469046",
       "source": {
         "name": "装置动态",
         "displayName": "装置动态",
         "authorityScore": 8
       },
       "authority": 8,
-      "fetchTime": "2026-05-25T02:55:32.481Z"
-    },
-    {
-      "title": "2025年国内PP新增产能300.5万吨，PP总产能达4682.5万吨",
-      "summary": "2025年上半年国内PP新增产能在300.5万吨，较去年同期增加114.64%，PP总产能达4682.5万吨，新装置的集中投放令市场承压。",
-      "url": "http://mp.weixin.qq.com/s?__biz=MjM5NTU3ODQwMA==&mid=2649858662&idx=5&sn=9e468d19b8778aba471e16c2a4810bdb",
-      "publishTime": "2024-01-04",
-      "category": [
-        "supply"
-      ],
-      "importance": 7,
-      "id": "装置动态_MjAyNeW5tOWb_1779677732481",
-      "source": {
-        "name": "装置动态",
-        "displayName": "装置动态",
-        "authorityScore": 8
-      },
-      "authority": 8,
-      "fetchTime": "2026-05-25T02:55:32.481Z"
+      "fetchTime": "2026-05-26T02:44:29.046Z"
     }
   ],
   "summary": {
     "total": 30,
     "byCategory": {
+      "price": 18,
+      "supply": 8,
+      "demand": 5,
       "geopolitics": 7,
-      "price": 15,
-      "supply": 9,
-      "demand": 2,
-      "new_plant": 2
+      "new_plant": 2,
+      "maintenance": 1
     },
     "bySource": {
-      "地缘政治": 6,
-      "International": 6,
       "原油价格": 6,
       "天然气/LNG": 6,
-      "装置动态": 6
+      "地缘政治": 6,
+      "装置动态": 6,
+      "International": 6
     }
   },
-  "generatedAt": "2026-05-25T02:56:17.474Z"
+  "generatedAt": "2026-05-26T02:45:54.137Z"
 }
