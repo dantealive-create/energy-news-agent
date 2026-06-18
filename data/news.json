@@ -1,10 +1,244 @@
 {
-  "date": "2026-06-17",
-  "items": [],
+  "date": "2026-06-18",
+  "items": [
+    {
+      "title": "EIA: Largest Oil Supply Disruption in Market History; Brent Stays Above $95 for Two Months",
+      "summary": "The EIA reported the largest oil supply disruption in market history with Brent settling at $94/bbl on March 9, up 50% YTD. EIA forecasts Brent remains above $95/b for two months before potentially falling below $80 in Q3 2026 if transit resumes.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/commodity-market-analysis-march-23-2026/",
+      "publishTime": "2026-03-10",
+      "category": [
+        "supply",
+        "price"
+      ],
+      "importance": 9,
+      "id": "International_RUlBOiBMYXJn_1781751614034",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-06-18T03:00:14.034Z"
+    },
+    {
+      "title": "Crude Oil Prices to Fall, Natural Gas Prices to Rise Through 2026 Amid Trade Shifts: EIA",
+      "summary": "The EIA forecasts that Brent crude oil prices will average $66/barrel in 2025 and $59/barrel in 2026, lower than the 2024 average of $81/barrel. Natural gas prices are expected to rise.",
+      "url": "https://enerknol.com/crude-oil-prices-to-fall-natural-gas-prices-to-rise-through-2026-amid-trade-shifts-eia/",
+      "publishTime": "2026-05-06",
+      "category": [
+        "price",
+        "policy"
+      ],
+      "importance": 9,
+      "id": "International_Q3J1ZGUgT2ls_1781751614034",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-06-18T03:00:14.034Z"
+    },
+    {
+      "title": "万华化学装置检修及新产能投产",
+      "summary": "万华化学旗下匈牙利宝思德化学公司的MDI（40万吨/年）、TDI（25万吨/年）等一体化装置及相关配套装置已开始陆续停产检修。同时，万华化学的福建工业园新建的TDI二期装置（36万吨/年）已建成投产。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkwMzU5NzU4MA==&mid=2247484718&idx=8&sn=3068592bdacd5d9d7db9a0f8cf63ace7",
+      "publishTime": "2023-08-18",
+      "category": [
+        "maintenance",
+        "new_plant"
+      ],
+      "importance": 9,
+      "id": "装置动态_5LiH5Y2O5YyW_1781751584823",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-06-18T02:59:44.823Z"
+    },
+    {
+      "title": "Iran Offers Partial Hormuz Opening to 'Neutral' Vessels; Oil Wild Swings Continue",
+      "summary": "Iran offered to open the Strait of Hormuz to neutral vessels following a direct US ultimatum, leading to wild swings in oil prices. Goldman Sachs raised oil price forecasts for the second time in under two weeks.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/commodity-market-analysis-march-23-2026/",
+      "publishTime": "2026-03-23",
+      "category": [
+        "geopolitics",
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_SXJhbiBPZmZl_1781751614034",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-06-18T03:00:14.034Z"
+    },
+    {
+      "title": "Global LNG and Natural Gas Prices Dip as Hormuz Reopening Hopes Build",
+      "summary": "LNG and natural gas prices dropped as hopes for the reopening of the Strait of Hormuz increased, affecting global energy markets.",
+      "url": "https://naturalgasintel.com/",
+      "publishTime": "2026-06-18",
+      "category": [
+        "geopolitics",
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_R2xvYmFsIExO_1781751614034",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-06-18T03:00:14.034Z"
+    },
+    {
+      "title": "Oversupply of Crude Oil to Increase Natural Gas Prices in 2026",
+      "summary": "An oversupply of crude oil later this year and falling WTI prices are expected to increase natural gas prices in 2026, with the potential for WTI to drop below $55/bbl.",
+      "url": "https://naturalgasintel.com/news/rising-lng-feed-gas-demand-oil-market-oversupply-push-up-2026-natural-gas-prices-the-offtake/",
+      "publishTime": "2026-06-18",
+      "category": [
+        "supply",
+        "price"
+      ],
+      "importance": 8,
+      "id": "International_T3ZlcnN1cHBs_1781751614034",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-06-18T03:00:14.034Z"
+    },
+    {
+      "title": "2026年炼厂检修计划内产能变化",
+      "summary": "2026年已公布18家常规计划内检修的主营炼厂，检修产能为14790万吨，同比2025年检修产能下降8.98%。3-4月份主营检修炼厂有4家，装置检修计划总产能1920万吨/年，同比去年3-4月份的检修产能下降了67.4%。",
+      "url": "https://www.163.com/dy/article/KNLPRP7B0519D3CQ.html",
+      "publishTime": "2026-03-12",
+      "category": [
+        "supply"
+      ],
+      "importance": 8,
+      "id": "装置动态_MjAyNuW5tOeC_1781751584823",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-06-18T02:59:44.823Z"
+    },
+    {
+      "title": "全球POE供应格局调整",
+      "summary": "2025年上半年，全球POE供应格局迎来关键调整。茂名石化5万吨/年POE装置与海外三井化学12万吨/年装置相继投产，推动全球总产能在6月底达388.5万吨。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI2NzMyOTE1MA==&mid=2247651910&idx=4&sn=aadd41fe37e32ac0ca01a8a6b2d94a40",
+      "publishTime": "2023-06-30",
+      "category": [
+        "new_plant"
+      ],
+      "importance": 8,
+      "id": "装置动态_5YWo55CDUE9F_1781751584823",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-06-18T02:59:44.823Z"
+    },
+    {
+      "title": "盘锦三力乙烯路线MMA项目试生产",
+      "summary": "盘锦三力中科新材料有限公司自主研发的乙烯路线MMA技术已实现全流程打通并稳定运行，标志着项目进入试生产阶段。该项目一期5万吨/年MMA装置原计划7月底试生产，但技术突破推动进度提前。",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg3OTkwNjI1OA==&mid=2247552061&idx=3&sn=8b24afe4f54b9dbb11e76ca3ce171569",
+      "publishTime": "2023-06-24",
+      "category": [
+        "new_plant"
+      ],
+      "importance": 8,
+      "id": "装置动态_55uY6ZSm5LiJ_1781751584823",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-06-18T02:59:44.823Z"
+    },
+    {
+      "title": "US Natural Gas Holds $3.10 as Mild February Leaves Storage Elevated; LNG Exports Rise",
+      "summary": "US natural gas held at $3.10 as mild weather in February left storage elevated. However, LNG exports are on the rise, affecting the market.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/commodity-market-analysis-february-26-2026-gold-silver-crude-oil-natural-gas-copper/",
+      "publishTime": "2026-02-26",
+      "category": [
+        "supply",
+        "price"
+      ],
+      "importance": 7,
+      "id": "International_VVMgTmF0dXJh_1781751614034",
+      "source": {
+        "name": "International",
+        "displayName": "International",
+        "authorityScore": 9
+      },
+      "authority": 9,
+      "fetchTime": "2026-06-18T03:00:14.034Z"
+    },
+    {
+      "title": "石化企业装置检修动态",
+      "summary": "5-6月上游石化企业装置检修较为集中，装置检修损失量预期提升，聚乙烯产能利用率呈下降态势，截至5月12日聚乙烯产能利用率在76%，较4月30日下降6.28%。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5MDgzMzQxNA==&mid=2650336333&idx=5&sn=f267901a3f32c520b1b9e160f9ec0f8e",
+      "publishTime": "2023-05-12",
+      "category": [
+        "maintenance"
+      ],
+      "importance": 7,
+      "id": "装置动态_55+z5YyW5LyB_1781751584823",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-06-18T02:59:44.823Z"
+    },
+    {
+      "title": "PP产能利用率小幅上升，检修与重启并行",
+      "summary": "截至8月8日，PP平均产能利用率为77.31%，环比上升0.37%。本周检修损失量14.26万吨，主因抚顺石化、神华新疆等新增停车装置；宝来石化、中煤蒙大部分装置重启。",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI1MjQ1MTkwMw==&mid=2247549873&idx=1&sn=470e2dc4778a556f872fb45d644e5cf9",
+      "publishTime": "2023-08-08",
+      "category": [
+        "supply"
+      ],
+      "importance": 7,
+      "id": "装置动态_UFDkuqfog73l_1781751584823",
+      "source": {
+        "name": "装置动态",
+        "displayName": "装置动态",
+        "authorityScore": 8
+      },
+      "authority": 8,
+      "fetchTime": "2026-06-18T02:59:44.823Z"
+    }
+  ],
   "summary": {
-    "total": 0,
-    "byCategory": {},
-    "bySource": {}
+    "total": 12,
+    "byCategory": {
+      "supply": 5,
+      "price": 6,
+      "policy": 1,
+      "maintenance": 2,
+      "new_plant": 3,
+      "geopolitics": 2
+    },
+    "bySource": {
+      "International": 6,
+      "装置动态": 6
+    }
   },
-  "generatedAt": "2026-06-17T03:32:29.070Z"
+  "generatedAt": "2026-06-18T03:00:17.038Z"
 }
